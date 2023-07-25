@@ -1,0 +1,10 @@
+* cl-string-generator
+
+Generate string from regular expression
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/pokepay/cl-string-generator.git   |
+| commit  | 29a068e  |
+| systems | cl-string-generator |
+|---------+-------------------------------------------|
+
